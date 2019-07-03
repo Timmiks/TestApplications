@@ -1,0 +1,17 @@
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\JSikuliModule.jar
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\TestRunConfig.xml
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\Ionic.Zip.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\SikuliModule.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\System.Drawing.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\SikuliModule.pdb
+D:\Timmi\!Work\Cplus\TestManager\TestManager\obj\Debug\TestManager.csproj.CoreCompileInputs.cache
+D:\Timmi\!Work\Cplus\TestManager\TestManager\obj\Debug\TestManager.csproj.CopyComplete
+D:\Timmi\!Work\Cplus\TestManager\TestManager\obj\Debug\TestManager.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\obj\Debug\TestManager.pdb
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\TestManager.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager\bin\Debug\TestManager.pdb
+D:\Timmi\!Work\Cplus\TestManager\TestManager\obj\Debug\TestManager.csprojAssemblyReference.cache

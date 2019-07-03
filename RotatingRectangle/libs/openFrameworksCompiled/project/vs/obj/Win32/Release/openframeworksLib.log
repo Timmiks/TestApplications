@@ -1,0 +1,118 @@
+﻿  of3dPrimitives.cpp
+  of3dUtils.cpp
+  ofCamera.cpp
+  ofEasyCam.cpp
+  ofNode.cpp
+  ofAppGLFWWindow.cpp
+  ofAppNoWindow.cpp
+  ofAppRunner.cpp
+  ofBaseApp.cpp
+  ofMainLoop.cpp
+  ofEvents.cpp
+  ofBufferObject.cpp
+  ofFbo.cpp
+  ofGLRenderer.cpp
+  ofGLUtils.cpp
+  ofLight.cpp
+  ofMaterial.cpp
+  ofGLProgrammableRenderer.cpp
+  ofShader.cpp
+  ofTexture.cpp
+  ofVbo.cpp
+  ofVboMesh.cpp
+  of3dGraphics.cpp
+  ofBitmapFont.cpp
+  ofCairoRenderer.cpp
+  ofGraphics.cpp
+  ofGraphicsBaseTypes.cpp
+  ofImage.cpp
+  ofPath.cpp
+  ofPixels.cpp
+  ofRendererCollection.cpp
+  ofTessellator.cpp
+  ofTrueTypeFont.cpp
+  ofMath.cpp
+  ofMatrix3x3.cpp
+  ofMatrix4x4.cpp
+  ofQuaternion.cpp
+  ofVec2f.cpp
+  ofVec4f.cpp
+  ofFmodSoundPlayer.cpp
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\graphics\oftruetypefont.cpp(287): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\graphics\oftruetypefont.cpp(300): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1003): note: see declaration of 'wcstombs'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\graphics\oftruetypefont.cpp(301): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1003): note: see declaration of 'wcstombs'
+  ofRtAudioSoundStream.cpp
+  ofSoundBaseTypes.cpp
+  ofSoundBuffer.cpp
+  ofSoundPlayer.cpp
+  ofSoundStream.cpp
+  ofBaseTypes.cpp
+  ofColor.cpp
+  ofParameter.cpp
+  ofParameterGroup.cpp
+  ofRectangle.cpp
+  ofFileUtils.cpp
+  ofFpsCounter.cpp
+  ofLog.cpp
+  ofMatrixStack.cpp
+  ofSystemUtils.cpp
+  ofThread.cpp
+  ofTimer.cpp
+  ofURLFileLoader.cpp
+  ofUtils.cpp
+  ofXml.cpp
+  ofDirectShowGrabber.cpp
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofsystemutils.cpp(283): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(915): note: see declaration of 'mbstowcs'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofsystemutils.cpp(334): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(117): note: see declaration of 'wcscpy'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofsystemutils.cpp(413): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(117): note: see declaration of 'wcscpy'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofsystemutils.cpp(418): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(117): note: see declaration of 'wcscpy'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofsystemutils.cpp(448): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(117): note: see declaration of 'wcscpy'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofsystemutils.cpp(450): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(117): note: see declaration of 'wcscpy'
+  ofDirectShowPlayer.cpp
+  ofVideoGrabber.cpp
+  ofVideoPlayer.cpp
+  ofArduino.cpp
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofutils.cpp(412): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofutils.cpp(436): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofutils.cpp(445): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofutils.cpp(454): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofutils.cpp(463): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofutils.cpp(473): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofutils.cpp(483): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofutils.cpp(492): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\utils\ofxml.cpp(198): warning C4101: 'e': unreferenced local variable
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\video\ofdirectshowgrabber.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  ofSerial.cpp
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\communication\ofarduino.cpp(560): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\communication\ofarduino.cpp(1526): warning C4333: '>>': right shift by too large amount, data loss
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\communication\ofserial.cpp(78): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\communication\ofserial.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\communication\ofserial.cpp(391): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\communication\ofserial.cpp(394): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\communication\ofserial.cpp(396): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(340): note: see declaration of 'strncpy'
+d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\communication\ofserial.cpp(419): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+  openframeworksLib.vcxproj -> D:\Timmi\!Work\TestApplications\RotatingRectangle\libs\openFrameworksCompiled\project\vs\..\..\lib\vs\Win32\openframeworksLib.lib

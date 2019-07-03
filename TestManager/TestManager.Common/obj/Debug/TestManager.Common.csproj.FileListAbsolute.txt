@@ -1,0 +1,13 @@
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\bin\Debug\TestManager.Common.dll.config
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\bin\Debug\TestManager.Common.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\bin\Debug\TestManager.Common.pdb
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\obj\Debug\TestManager.Common.csprojAssemblyReference.cache
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\obj\Debug\TestManager.Common.csproj.CoreCompileInputs.cache
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\obj\Debug\TestManager.Common.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\obj\Debug\TestManager.Common.pdb
+D:\Timmi\!Work\TestApplications\TestManager\TestManager.Common\bin\Debug\TestManager.Common.dll.config
+D:\Timmi\!Work\TestApplications\TestManager\TestManager.Common\bin\Debug\TestManager.Common.dll
+D:\Timmi\!Work\TestApplications\TestManager\TestManager.Common\bin\Debug\TestManager.Common.pdb
+D:\Timmi\!Work\TestApplications\TestManager\TestManager.Common\obj\Debug\TestManager.Common.csproj.CoreCompileInputs.cache
+D:\Timmi\!Work\TestApplications\TestManager\TestManager.Common\obj\Debug\TestManager.Common.dll
+D:\Timmi\!Work\TestApplications\TestManager\TestManager.Common\obj\Debug\TestManager.Common.pdb

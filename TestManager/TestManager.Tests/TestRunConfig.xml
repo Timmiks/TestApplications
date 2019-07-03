@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TestRunConfig>
+  <AppPath>C:\Users\Timmi\Desktop\of_v0.10.1_vs2017_release\apps\myApps\RotatingRectangle\bin\</AppPath>
+  <AppName>RotatingRectangle.exe</AppName>
+  <RunStatPath>D:\Timmi\!Work\TestApplications\TestManager\TestManager.Tools\Reporting\RunStatistics.xml</RunStatPath>
+</TestRunConfig>

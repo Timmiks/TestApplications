@@ -1,0 +1,6 @@
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\bin\Release\TestManager.Common.dll.config
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\bin\Release\TestManager.Common.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\bin\Release\TestManager.Common.pdb
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\obj\Release\TestManager.Common.csproj.CoreCompileInputs.cache
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\obj\Release\TestManager.Common.dll
+D:\Timmi\!Work\Cplus\TestManager\TestManager.Common\obj\Release\TestManager.Common.pdb

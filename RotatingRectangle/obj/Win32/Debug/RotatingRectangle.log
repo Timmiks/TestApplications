@@ -1,0 +1,8 @@
+﻿  main.cpp
+  ofApp.cpp
+d:\timmi\!work\testapplications\rotatingrectangle\src\ofapp.cpp(51): warning C4996: 'ofRotateZ': Use ofRotateZDeg or ofRotateZRad
+  d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\graphics\ofgraphics.h(1044): note: see declaration of 'ofRotateZ'
+d:\timmi\!work\testapplications\rotatingrectangle\src\ofapp.cpp(53): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  d:\timmi\!work\testapplications\rotatingrectangle\libs\openframeworks\graphics\ofgraphics.h(513): note: see declaration of 'ofRect'
+     Creating library bin\RotatingRectangle_debug.lib and object bin\RotatingRectangle_debug.exp
+  RotatingRectangle.vcxproj -> D:\Timmi\!Work\TestApplications\RotatingRectangle\bin\RotatingRectangle_debug.exe
